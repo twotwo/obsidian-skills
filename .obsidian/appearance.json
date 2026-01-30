@@ -1,0 +1,14 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#1a7da4",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "adanced-slides",
+    "Tasks",
+    "Font Style",
+    "minimal-cards-3.0.1"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
+}
