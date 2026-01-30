@@ -1,4 +1,5 @@
 Vault as workspace for thinking and creation.
+![](snapshot.png)
 
 ## Features
 1. 适配开发模式的 Obsidian 配置

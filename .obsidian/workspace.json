@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +209,10 @@
   },
   "active": "ad1e92547206da90",
   "lastOpenFiles": [
+    "snapshot.png",
+    "README.md",
     "efforts/nutrition/Fat.excalidraw.md",
     "efforts/nutrition/Fat.md",
-    "README.md",
     "LICENSE",
     "efforts/nutrition",
     "references/templates/style_infographic_pro.md",
